@@ -1,0 +1,478 @@
+{
+ "batchId": 1326,
+ "batch": "a193g000002YQaeAAG",
+ "codeEvaluations": [
+  {
+   "title": "C# Coding Challenge",
+   "testName": "dotNET Extended - Standard Assessment - 1",
+   "totalTestPoints": 10,
+   "batchCurriculumActivityId": 241425,
+   "grades": [
+    {
+     "traineeId": 91642,
+     "trainee": "0033g000008AIhUAAW",
+     "grade": 0,
+     "performanceCategory": "Beginner"
+    },
+    {
+     "traineeId": 140440,
+     "trainee": "0033g000018QZXlAAO",
+     "grade": 0,
+     "performanceCategory": "Beginner"
+    },
+    {
+     "traineeId": 142504,
+     "trainee": "0033g00001CHpu1AAD",
+     "grade": 100,
+     "performanceCategory": "Proficient"
+    },
+    {
+     "traineeId": 143725,
+     "trainee": "0033g00001Djuu0AAB",
+     "grade": 100,
+     "performanceCategory": "Proficient"
+    },
+    {
+     "traineeId": 144441,
+     "trainee": "0033g00001Iyf6rAAB",
+     "grade": 100,
+     "performanceCategory": "Proficient"
+    },
+    {
+     "traineeId": 145030,
+     "trainee": "0033g00001CHDWGAA5",
+     "grade": 0,
+     "performanceCategory": "Beginner"
+    },
+    {
+     "traineeId": 145144,
+     "trainee": "0030d00002HfUOdAAN",
+     "grade": 100,
+     "performanceCategory": "Proficient"
+    },
+    {
+     "traineeId": 145146,
+     "trainee": "0033g00001DkQn1AAF",
+     "grade": 0,
+     "performanceCategory": "Beginner"
+    },
+    {
+     "traineeId": 145207,
+     "trainee": "0033g000011v7vSAAQ",
+     "grade": 0,
+     "performanceCategory": "Beginner"
+    },
+    {
+     "traineeId": 145319,
+     "trainee": "0033g00001IyVPIAA3",
+     "grade": 100,
+     "performanceCategory": "Proficient"
+    },
+    {
+     "traineeId": 145324,
+     "trainee": "0033g00001IzFOLAA3",
+     "grade": 0,
+     "performanceCategory": "Beginner"
+    },
+    {
+     "traineeId": 145349,
+     "trainee": "0033g00001Iz3nuAAB",
+     "grade": 100,
+     "performanceCategory": "Proficient"
+    },
+    {
+     "traineeId": 145366,
+     "trainee": "0033g00001CI4WaAAL",
+     "grade": 100,
+     "performanceCategory": "Proficient"
+    },
+    {
+     "traineeId": 145383,
+     "trainee": "0033g00001IzKhTAAV",
+     "grade": 100,
+     "performanceCategory": "Proficient"
+    },
+    {
+     "traineeId": 145532,
+     "trainee": "0033g000017801KAAQ",
+     "grade": 0,
+     "performanceCategory": "Beginner"
+    }
+   ]
+  },
+  {
+   "title": "C# Coding Challenge",
+   "testName": "dotNET Extended - Standard Assessment - 2",
+   "totalTestPoints": 20,
+   "batchCurriculumActivityId": 242625,
+   "grades": [
+    {
+     "traineeId": 91642,
+     "trainee": "0033g000008AIhUAAW",
+     "grade": 20,
+     "performanceCategory": "Beginner"
+    },
+    {
+     "traineeId": 142504,
+     "trainee": "0033g00001CHpu1AAD",
+     "grade": 90,
+     "performanceCategory": "Proficient"
+    },
+    {
+     "traineeId": 143725,
+     "trainee": "0033g00001Djuu0AAB",
+     "grade": 90,
+     "performanceCategory": "Proficient"
+    },
+    {
+     "traineeId": 144441,
+     "trainee": "0033g00001Iyf6rAAB",
+     "grade": 30,
+     "performanceCategory": "Intermediate"
+    },
+    {
+     "traineeId": 145030,
+     "trainee": "0033g00001CHDWGAA5",
+     "grade": 10,
+     "performanceCategory": "Beginner"
+    },
+    {
+     "traineeId": 145144,
+     "trainee": "0030d00002HfUOdAAN",
+     "grade": 30,
+     "performanceCategory": "Intermediate"
+    },
+    {
+     "traineeId": 145146,
+     "trainee": "0033g00001DkQn1AAF",
+     "grade": 0,
+     "performanceCategory": "Beginner"
+    },
+    {
+     "traineeId": 145207,
+     "trainee": "0033g000011v7vSAAQ",
+     "grade": 30,
+     "performanceCategory": "Intermediate"
+    },
+    {
+     "traineeId": 145319,
+     "trainee": "0033g00001IyVPIAA3",
+     "grade": 40,
+     "performanceCategory": "Intermediate"
+    },
+    {
+     "traineeId": 145324,
+     "trainee": "0033g00001IzFOLAA3",
+     "grade": 20,
+     "performanceCategory": "Beginner"
+    },
+    {
+     "traineeId": 145349,
+     "trainee": "0033g00001Iz3nuAAB",
+     "grade": 90,
+     "performanceCategory": "Proficient"
+    },
+    {
+     "traineeId": 145366,
+     "trainee": "0033g00001CI4WaAAL",
+     "grade": 90,
+     "performanceCategory": "Proficient"
+    },
+    {
+     "traineeId": 145383,
+     "trainee": "0033g00001IzKhTAAV",
+     "grade": 50,
+     "performanceCategory": "Intermediate"
+    },
+    {
+     "traineeId": 145532,
+     "trainee": "0033g000017801KAAQ",
+     "grade": 0,
+     "performanceCategory": "Beginner"
+    }
+   ]
+  },
+  {
+   "title": "SQL Coding Challenge",
+   "testName": "SQL - Standard 1",
+   "totalTestPoints": 15,
+   "batchCurriculumActivityId": 242572,
+   "grades": [
+    {
+     "traineeId": 91642,
+     "trainee": "0033g000008AIhUAAW",
+     "grade": 0,
+     "performanceCategory": "Beginner"
+    },
+    {
+     "traineeId": 140440,
+     "trainee": "0033g000018QZXlAAO",
+     "grade": 0,
+     "performanceCategory": "Beginner"
+    },
+    {
+     "traineeId": 142504,
+     "trainee": "0033g00001CHpu1AAD",
+     "grade": 33,
+     "performanceCategory": "Intermediate"
+    },
+    {
+     "traineeId": 143725,
+     "trainee": "0033g00001Djuu0AAB",
+     "grade": 0,
+     "performanceCategory": "Beginner"
+    },
+    {
+     "traineeId": 144441,
+     "trainee": "0033g00001Iyf6rAAB",
+     "grade": 0,
+     "performanceCategory": "Beginner"
+    },
+    {
+     "traineeId": 145030,
+     "trainee": "0033g00001CHDWGAA5",
+     "grade": 33,
+     "performanceCategory": "Intermediate"
+    },
+    {
+     "traineeId": 145144,
+     "trainee": "0030d00002HfUOdAAN",
+     "grade": 0,
+     "performanceCategory": "Beginner"
+    },
+    {
+     "traineeId": 145146,
+     "trainee": "0033g00001DkQn1AAF",
+     "grade": 0,
+     "performanceCategory": "Beginner"
+    },
+    {
+     "traineeId": 145207,
+     "trainee": "0033g000011v7vSAAQ",
+     "grade": 0,
+     "performanceCategory": "Beginner"
+    },
+    {
+     "traineeId": 145319,
+     "trainee": "0033g00001IyVPIAA3",
+     "grade": 0,
+     "performanceCategory": "Beginner"
+    },
+    {
+     "traineeId": 145324,
+     "trainee": "0033g00001IzFOLAA3",
+     "grade": 0,
+     "performanceCategory": "Beginner"
+    },
+    {
+     "traineeId": 145349,
+     "trainee": "0033g00001Iz3nuAAB",
+     "grade": 33,
+     "performanceCategory": "Intermediate"
+    },
+    {
+     "traineeId": 145366,
+     "trainee": "0033g00001CI4WaAAL",
+     "grade": 0,
+     "performanceCategory": "Beginner"
+    },
+    {
+     "traineeId": 145383,
+     "trainee": "0033g00001IzKhTAAV",
+     "grade": 33,
+     "performanceCategory": "Intermediate"
+    },
+    {
+     "traineeId": 145532,
+     "trainee": "0033g000017801KAAQ",
+     "grade": 0,
+     "performanceCategory": "Beginner"
+    }
+   ]
+  },
+  {
+   "title": "C# Coding Challenge",
+   "testName": "Level 3 - Language - Intermediate I",
+   "totalTestPoints": 100,
+   "batchCurriculumActivityId": 245085,
+   "grades": [
+    {
+     "traineeId": 91642,
+     "trainee": "0033g000008AIhUAAW",
+     "grade": 40,
+     "performanceCategory": "Intermediate"
+    },
+    {
+     "traineeId": 140440,
+     "trainee": "0033g000018QZXlAAO",
+     "grade": 50,
+     "performanceCategory": "Intermediate"
+    },
+    {
+     "traineeId": 142504,
+     "trainee": "0033g00001CHpu1AAD",
+     "grade": 100,
+     "performanceCategory": "Proficient"
+    },
+    {
+     "traineeId": 143725,
+     "trainee": "0033g00001Djuu0AAB",
+     "grade": 100,
+     "performanceCategory": "Proficient"
+    },
+    {
+     "traineeId": 144441,
+     "trainee": "0033g00001Iyf6rAAB",
+     "grade": 50,
+     "performanceCategory": "Intermediate"
+    },
+    {
+     "traineeId": 145144,
+     "trainee": "0030d00002HfUOdAAN",
+     "grade": 100,
+     "performanceCategory": "Proficient"
+    },
+    {
+     "traineeId": 145146,
+     "trainee": "0033g00001DkQn1AAF",
+     "grade": 50,
+     "performanceCategory": "Intermediate"
+    },
+    {
+     "traineeId": 145207,
+     "trainee": "0033g000011v7vSAAQ",
+     "grade": 100,
+     "performanceCategory": "Proficient"
+    },
+    {
+     "traineeId": 145319,
+     "trainee": "0033g00001IyVPIAA3",
+     "grade": 100,
+     "performanceCategory": "Proficient"
+    },
+    {
+     "traineeId": 145324,
+     "trainee": "0033g00001IzFOLAA3",
+     "grade": 100,
+     "performanceCategory": "Proficient"
+    },
+    {
+     "traineeId": 145349,
+     "trainee": "0033g00001Iz3nuAAB",
+     "grade": 100,
+     "performanceCategory": "Proficient"
+    },
+    {
+     "traineeId": 145366,
+     "trainee": "0033g00001CI4WaAAL",
+     "grade": 100,
+     "performanceCategory": "Proficient"
+    },
+    {
+     "traineeId": 145383,
+     "trainee": "0033g00001IzKhTAAV",
+     "grade": 100,
+     "performanceCategory": "Proficient"
+    },
+    {
+     "traineeId": 145532,
+     "trainee": "0033g000017801KAAQ",
+     "grade": 100,
+     "performanceCategory": "Proficient"
+    }
+   ]
+  },
+  {
+   "title": "C# Coding Challenge",
+   "testName": "Level 4 - Language - Intermediate II",
+   "totalTestPoints": 100,
+   "batchCurriculumActivityId": 247783,
+   "grades": [
+    {
+     "traineeId": 91642,
+     "trainee": "0033g000008AIhUAAW",
+     "grade": 0,
+     "performanceCategory": "Beginner"
+    },
+    {
+     "traineeId": 140440,
+     "trainee": "0033g000018QZXlAAO",
+     "grade": 0,
+     "performanceCategory": "Beginner"
+    },
+    {
+     "traineeId": 142504,
+     "trainee": "0033g00001CHpu1AAD",
+     "grade": 100,
+     "performanceCategory": "Proficient"
+    },
+    {
+     "traineeId": 143725,
+     "trainee": "0033g00001Djuu0AAB",
+     "grade": 40,
+     "performanceCategory": "Intermediate"
+    },
+    {
+     "traineeId": 144441,
+     "trainee": "0033g00001Iyf6rAAB",
+     "grade": 100,
+     "performanceCategory": "Proficient"
+    },
+    {
+     "traineeId": 145144,
+     "trainee": "0030d00002HfUOdAAN",
+     "grade": 50,
+     "performanceCategory": "Intermediate"
+    },
+    {
+     "traineeId": 145146,
+     "trainee": "0033g00001DkQn1AAF",
+     "grade": 0,
+     "performanceCategory": "Beginner"
+    },
+    {
+     "traineeId": 145207,
+     "trainee": "0033g000011v7vSAAQ",
+     "grade": 30,
+     "performanceCategory": "Intermediate"
+    },
+    {
+     "traineeId": 145319,
+     "trainee": "0033g00001IyVPIAA3",
+     "grade": 100,
+     "performanceCategory": "Proficient"
+    },
+    {
+     "traineeId": 145324,
+     "trainee": "0033g00001IzFOLAA3",
+     "grade": 100,
+     "performanceCategory": "Proficient"
+    },
+    {
+     "traineeId": 145349,
+     "trainee": "0033g00001Iz3nuAAB",
+     "grade": 100,
+     "performanceCategory": "Proficient"
+    },
+    {
+     "traineeId": 145366,
+     "trainee": "0033g00001CI4WaAAL",
+     "grade": 100,
+     "performanceCategory": "Proficient"
+    },
+    {
+     "traineeId": 145383,
+     "trainee": "0033g00001IzKhTAAV",
+     "grade": 50,
+     "performanceCategory": "Intermediate"
+    },
+    {
+     "traineeId": 145532,
+     "trainee": "0033g000017801KAAQ",
+     "grade": 100,
+     "performanceCategory": "Proficient"
+    }
+   ]
+  }
+ ]
+}

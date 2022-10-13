@@ -9,7 +9,7 @@
 > &rarr; [cmd] python3 -m venv .venv <br>
 > &rarr; [cmd] source .venv/Scripts/activate (Windows) | source .venv/bin/activate (Unix/Mac) <br>
 > &rarr; [cmd] pip3 install -r requirements.txt <br>
-> &rarr; Insert the coding assesmnt JSON file into the **input** folder
+> &rarr; Insert the code_evaluations JSON file into the **input** folder, as well as optionally putting the batch report to replace the associate ids with names
 > &rarr; [cmd] python3 app.py <br>
 
 Check the **output** folder for the resulting Excel (.xlsx) file. <br>
